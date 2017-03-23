@@ -1,0 +1,37 @@
+body {
+    background-color: white;
+    color: blue;
+    text-indent: 16px;
+    
+}
+h1 {
+    color: blue;
+    font-size: 36px;
+}
+.NYY {
+    width: 450px;
+}
+.gif {
+    width: 450px;
+    height: 300px;
+}
+.worldseries {
+    width: 500px;
+    margin-top: 40px;
+}
+p {
+    font-size: 20px;
+}
+div {
+    font-size: 24px;
+}
+.mlblogo {
+    width: 500px;
+}
+h3 {
+    text-align: center;
+}
+
+div.col-md-4 {
+    display: inline-block;
+}

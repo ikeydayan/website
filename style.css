@@ -1,0 +1,42 @@
+
+/*body {*/
+/*    background-color: white;*/
+/*}*/
+/*.picture {*/
+/*    width: 450px;*/
+/*}*/
+
+img{
+    width: 500px;
+    height: 300px;
+}
+
+a{
+    text-align: center;
+}
+.gif {
+    width: 400px;
+}
+p {
+    color: white;
+}
+body {
+    color: black;
+     text-indent: 10px;
+}
+li {
+    text-indent: 10px;
+    font-style: normal;
+    font-size: 20px;
+}
+body {
+    font-size: 20px;
+}
+h2 {
+    font-size: 20px;
+    text-indent: 10px;
+}
+
+.imagesContainer{
+    margin-top: 40px
+}
