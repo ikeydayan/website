@@ -1,18 +1,40 @@
+body {
+    text-indent: 16px;
+    font-size: 18px;
+}
 h1 {
     color: orange;
+    font-size: 40px;
+    margin-bottom: 40px;
 }
 .melo {
     width: 500px;
     height: 400px;
+    padding-bottom: 10px;
 }
 .dunk {
     width: 500px;
     height: 400px;
+    padding-bottom: 10px;
 }
 p {
     font-family: times;
-    font-size: 16px;
+    font-size: 20px;
     margin-left: 4px;
-    line-spacing: 2.0;
+}
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.est {
+    width: 400px;
+}
+.nba {
+    width: 400px;
+}
+h3 {
     
+}
+ul {
+    font-size: 20px;
 }

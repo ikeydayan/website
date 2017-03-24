@@ -1,7 +1,15 @@
 body { 
     color: black;
     background-color: skyblue;
+    font-size: 20px;
+    text-indent: 26px;
 }
 .mm {
-    width: 900px;
+    width: 500px;
+    height: 330px;
+    margin-top: 40px;
+}
+h1 {
+    font-size: 34px;
+    margin-bottom: 26px;
 }
