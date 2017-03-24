@@ -1,20 +1,52 @@
 body {
+<<<<<<< HEAD
     font-size: 22px;
 }
 
+=======
+    text-indent: 16px;
+    font-size: 18px;
+}
+>>>>>>> 831753ab10703b2e610a90d5cab1d4e80a8bdffd
 h1 {
     color: orange;
+    font-size: 40px;
+    margin-bottom: 40px;
 }
 .melo {
     width: 500px;
     height: 400px;
+    padding-bottom: 10px;
 }
 .dunk {
     width: 500px;
     height: 400px;
+    padding-bottom: 10px;
 }
 p {
     font-family: times;
+<<<<<<< HEAD
     font-size: 22px;
     margin-left: 4px;
 }
+=======
+    font-size: 20px;
+    margin-left: 4px;
+}
+h2 {
+    font-size: 18px;
+    text-align: center;
+}
+.est {
+    width: 400px;
+}
+.nba {
+    width: 400px;
+}
+h3 {
+    font-style: bold;
+}
+ul {
+    font-size: 20px;
+}
+>>>>>>> 831753ab10703b2e610a90d5cab1d4e80a8bdffd
