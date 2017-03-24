@@ -9,6 +9,7 @@
 img{
     width: 500px;
     height: 300px;
+    margin-top: 40px;
 }
 
 a{
@@ -34,9 +35,13 @@ body {
 }
 h2 {
     font-size: 20px;
-    text-indent: 10px;
+    text-indent: 4px;
+    font-family: 'Indie Flower', cursive;
 }
 
 .imagesContainer{
     margin-top: 40px
+}
+.nfllogo {
+    width: 400px;
 }
