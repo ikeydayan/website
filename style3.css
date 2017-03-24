@@ -1,3 +1,7 @@
+body {
+    font-size: 22px;
+}
+
 h1 {
     color: orange;
 }
@@ -11,8 +15,6 @@ h1 {
 }
 p {
     font-family: times;
-    font-size: 16px;
+    font-size: 22px;
     margin-left: 4px;
-    line-spacing: 2.0;
-    
 }
