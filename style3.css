@@ -1,7 +1,13 @@
 body {
+<<<<<<< HEAD
+    font-size: 22px;
+}
+
+=======
     text-indent: 16px;
     font-size: 18px;
 }
+>>>>>>> 831753ab10703b2e610a90d5cab1d4e80a8bdffd
 h1 {
     color: orange;
     font-size: 40px;
@@ -19,6 +25,11 @@ h1 {
 }
 p {
     font-family: times;
+<<<<<<< HEAD
+    font-size: 22px;
+    margin-left: 4px;
+}
+=======
     font-size: 20px;
     margin-left: 4px;
 }
@@ -38,3 +49,4 @@ h3 {
 ul {
     font-size: 20px;
 }
+>>>>>>> 831753ab10703b2e610a90d5cab1d4e80a8bdffd

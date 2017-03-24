@@ -35,7 +35,11 @@ body {
 }
 h2 {
     font-size: 20px;
+<<<<<<< HEAD
+    text-indent: 10px;
+=======
     text-indent: 4px;
+>>>>>>> 831753ab10703b2e610a90d5cab1d4e80a8bdffd
     font-family: 'Orbitron', sans-serif;
 }
 
